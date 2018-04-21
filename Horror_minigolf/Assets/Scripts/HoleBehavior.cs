@@ -8,7 +8,7 @@ public class HoleBehavior : MonoBehaviour {
     public Camera playercamera;
 
     private void OnTriggerEnter(Collider other) {
-        if (other.name == "Eyball") {
+        if (other.name == "NikoEyeball") {
             print("ping");
             //playercamera.transform.parent = null;
             Destroy(player);
