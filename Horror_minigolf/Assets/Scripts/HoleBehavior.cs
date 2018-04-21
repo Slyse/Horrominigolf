@@ -10,7 +10,7 @@ public class HoleBehavior : MonoBehaviour {
     private void OnTriggerEnter(Collider other) {
         if (other.name == "Eyball") {
             print("ping");
-            playercamera.transform.parent = null;
+            //playercamera.transform.parent = null;
             Destroy(player);
             
                 // vois freezaa pelin ja heittää gameover tms ruutuun display text on screen

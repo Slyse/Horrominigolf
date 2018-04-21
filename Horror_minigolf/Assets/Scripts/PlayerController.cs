@@ -15,12 +15,12 @@ public class PlayerController : MonoBehaviour {
 
 
     void Update() {
-        //float translation = Input.GetAxis("Vertical") * speed;
-        //float rotation = Input.GetAxis("Horizontal") * rotationSpeed;
-        //translation *= Time.deltaTime;
-        //rotation *= Time.deltaTime;
-        //transform.Rotate(0, rotation, 0);
-        //transform.Translate(0, 0, translation);
+        float translation = Input.GetAxis("Vertical") * speed;
+        float rotation = Input.GetAxis("Horizontal") * rotationSpeed;
+        translation *= Time.deltaTime;
+        rotation *= Time.deltaTime;
+        transform.Rotate(0, rotation, 0);
+        transform.Translate(0, 0, translation);
 
         transform.Rotate(axis, Input.GetAxis(HorizontalAim) * sensitivity, 0);
 
