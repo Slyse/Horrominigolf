@@ -98,15 +98,15 @@ NavMeshSettings:
   m_BuildSettings:
     serializedVersion: 2
     agentTypeID: 0
-    agentRadius: 1
-    agentHeight: 1
+    agentRadius: 0.3
+    agentHeight: 0.3
     agentSlope: 45
-    agentClimb: 0.6
+    agentClimb: 0.2
     ledgeDropHeight: 0
     maxJumpAcrossDistance: 0
     minRegionArea: 2
     manualCellSize: 0
-    cellSize: 0.33333334
+    cellSize: 0.1
     manualTileSize: 0
     tileSize: 256
     accuratePlacement: 0
@@ -1277,7 +1277,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nikoEyeBall: {fileID: 1506937485}
-  speed: 1
+  speed: 3
 --- !u!195 &1307151308
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -1534,7 +1534,7 @@ Prefab:
     m_Modifications:
     - target: {fileID: 4931196903723708, guid: 2e5ef4f6bca3dbf4f9ea8523e817146a, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 2.6110277
+      value: -0.29
       objectReference: {fileID: 0}
     - target: {fileID: 4931196903723708, guid: 2e5ef4f6bca3dbf4f9ea8523e817146a, type: 2}
       propertyPath: m_LocalPosition.y
@@ -1542,7 +1542,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4931196903723708, guid: 2e5ef4f6bca3dbf4f9ea8523e817146a, type: 2}
       propertyPath: m_LocalPosition.z
-      value: 1.13
+      value: -3.64
       objectReference: {fileID: 0}
     - target: {fileID: 4931196903723708, guid: 2e5ef4f6bca3dbf4f9ea8523e817146a, type: 2}
       propertyPath: m_LocalRotation.x
@@ -1569,6 +1569,10 @@ Prefab:
       propertyPath: player
       value: 
       objectReference: {fileID: 1506937484}
+    - target: {fileID: 1503100949706444, guid: 2e5ef4f6bca3dbf4f9ea8523e817146a, type: 2}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 2e5ef4f6bca3dbf4f9ea8523e817146a, type: 2}
   m_IsPrefabParent: 0
@@ -1924,13 +1928,13 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1886541746}
-  m_LocalRotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 0, y: 10.5, z: 0}
+  m_LocalRotation: {x: 0.65322214, y: -0, z: -0, w: 0.7571664}
+  m_LocalPosition: {x: 0, y: 18.18, z: -0.19}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 3
-  m_LocalEulerAnglesHint: {x: 90, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 81.57001, y: 0, z: 0}
 --- !u!81 &1886541748
 AudioListener:
   m_ObjectHideFlags: 0
@@ -2174,7 +2178,7 @@ Prefab:
     m_Modifications:
     - target: {fileID: 4437670743863766, guid: a87e680882448384d98749b39a861fc9, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: -0.24
       objectReference: {fileID: 0}
     - target: {fileID: 4437670743863766, guid: a87e680882448384d98749b39a861fc9, type: 2}
       propertyPath: m_LocalPosition.y
@@ -2182,7 +2186,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4437670743863766, guid: a87e680882448384d98749b39a861fc9, type: 2}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: 0.4
       objectReference: {fileID: 0}
     - target: {fileID: 4437670743863766, guid: a87e680882448384d98749b39a861fc9, type: 2}
       propertyPath: m_LocalRotation.x
