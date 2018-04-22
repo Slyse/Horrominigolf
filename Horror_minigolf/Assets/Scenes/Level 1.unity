@@ -655,6 +655,10 @@ Prefab:
       propertyPath: m_RootOrder
       value: 9
       objectReference: {fileID: 0}
+    - target: {fileID: 4672119455193592, guid: d17a0e2fe4364a849b7f28b5ca992ed9, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 1.23
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d17a0e2fe4364a849b7f28b5ca992ed9, type: 2}
   m_IsPrefabParent: 0
@@ -968,7 +972,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!95 &936009537
 Animator:
   serializedVersion: 3
@@ -1565,7 +1569,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nikoEyeball: {fileID: 1506937485}
-  speed: 1
+  speed: 4
 --- !u!1 &1377950269
 GameObject:
   m_ObjectHideFlags: 0
@@ -1867,7 +1871,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4931196903723708, guid: 2e5ef4f6bca3dbf4f9ea8523e817146a, type: 2}
       propertyPath: m_LocalPosition.z
-      value: -16.22
+      value: -2.75
       objectReference: {fileID: 0}
     - target: {fileID: 4931196903723708, guid: 2e5ef4f6bca3dbf4f9ea8523e817146a, type: 2}
       propertyPath: m_LocalRotation.x
