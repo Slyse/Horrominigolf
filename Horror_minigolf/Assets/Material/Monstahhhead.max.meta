@@ -6,11 +6,41 @@ ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
     100000: //RootNode
+    100002: "p\xE4\xE4"
+    100004: sarvi1
+    100006: sarvi2
+    100008: "silm\xE4juttu"
+    100010: Sphere001
+    100012: Torus001
+    100014: Torus002
     400000: //RootNode
+    400002: "p\xE4\xE4"
+    400004: sarvi1
+    400006: sarvi2
+    400008: "silm\xE4juttu"
+    400010: Sphere001
+    400012: Torus001
+    400014: Torus002
     2100000: No Name
+    2100002: 'Material #2'
     2300000: //RootNode
+    2300002: "p\xE4\xE4"
+    2300004: sarvi1
+    2300006: sarvi2
+    2300008: "silm\xE4juttu"
+    2300010: Sphere001
     3300000: //RootNode
+    3300002: "p\xE4\xE4"
+    3300004: sarvi1
+    3300006: sarvi2
+    3300008: "silm\xE4juttu"
+    3300010: Sphere001
     4300000: Sphere001
+    4300002: "p\xE4\xE4"
+    4300004: sarvi1
+    4300006: sarvi2
+    4300008: "silm\xE4juttu"
+    7400000: Take 001
     9500000: //RootNode
   externalObjects: {}
   materials:
