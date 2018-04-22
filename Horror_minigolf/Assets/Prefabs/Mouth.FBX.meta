@@ -1,16 +1,16 @@
 fileFormatVersion: 2
-guid: 284fbb4bdb7ae334cae12e88ceee086f
-timeCreated: 1524394680
+guid: 549256eef9c34a745bd55fb79373ae89
+timeCreated: 1524402067
 licenseType: Pro
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
     100000: //RootNode
     400000: //RootNode
-    2100000: No Name
+    2100000: 'Material #2'
     2300000: //RootNode
     3300000: //RootNode
-    4300000: Cylinder001
+    4300000: Suu
     9500000: //RootNode
   externalObjects: {}
   materials:
