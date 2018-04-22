@@ -3,25 +3,18 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class HoleChase : MonoBehaviour {
-    public Transform nikoEyeBall;
+    public Transform nikoEyeball;
     public float speed;
-   // int checkpoints;
-    // public int maxCheckpoints;
+    bool chasing;
 
-    void Update() {
-
-        float move = speed * Time.deltaTime;
-
-        //while ( checkpoints < maxCheckpoints) {
-            //if(checkpoints == 1) {
-                transform.position = Vector3.MoveTowards(transform.position, nikoEyeBall.position, move);
-           // }
-        //}
-
-
-
-        
-        
+    public void StartChase() {
+        chasing = true;
     }
 
+    void Update() {
+        if (chasing) {
+            float move = speed * Time.deltaTime;
+            transform.position = Vector3.MoveTowards(transform.position, nikoEyeball.position, move);
+        }
+    }
 }
