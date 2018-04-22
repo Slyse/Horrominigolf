@@ -19,6 +19,7 @@ public class HoleBehavior : MonoBehaviour {
             //playercamera.transform.parent = null;
             Destroy(player);
             statusText.text = "YARRR!! YOU GOT EATEN!";
+            Time.timeScale = 0f;
             // vois freezaa pelin ja heittää gameover tms ruutuun display text on screen
 
         }
