@@ -1,99 +1,17 @@
 fileFormatVersion: 2
-guid: 7fde9edbb9dcd3247a9e63839000b9d3
-timeCreated: 1524317805
+guid: 650fbb82724b6f648a3330e314665f47
+timeCreated: 1524397140
 licenseType: Pro
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
-    100000: Bone001
-    100002: Bone002
-    100004: Bone003
-    100006: Bone004
-    100008: Bone005
-    100010: Bone006
-    100012: Bone007
-    100014: Bone008
-    100016: Bone009
-    100018: Bone010
-    100020: Bone011
-    100022: Bone012
-    100024: Bone013
-    100026: Bone014
-    100028: Bone015
-    100030: Bone016
-    100032: Bone017
-    100034: Bone018
-    100036: Bone019
-    100038: Bone020
-    100040: Box001
-    100042: Circle001
-    100044: Circle002
-    100046: Circle003
-    100048: Circle004
-    100050: Circle005
-    100052: Circle006
-    100054: Circle007
-    100056: Circle008
-    100058: Circle009
-    100060: Circle010
-    100062: Circle011
-    100064: Circle012
-    100066: Circle013
-    100068: Circle014
-    100070: Circle015
-    100072: //RootNode
-    100074: Sphere001
-    100076: Torus001
-    400000: Bone001
-    400002: Bone002
-    400004: Bone003
-    400006: Bone004
-    400008: Bone005
-    400010: Bone006
-    400012: Bone007
-    400014: Bone008
-    400016: Bone009
-    400018: Bone010
-    400020: Bone011
-    400022: Bone012
-    400024: Bone013
-    400026: Bone014
-    400028: Bone015
-    400030: Bone016
-    400032: Bone017
-    400034: Bone018
-    400036: Bone019
-    400038: Bone020
-    400040: Box001
-    400042: Circle001
-    400044: Circle002
-    400046: Circle003
-    400048: Circle004
-    400050: Circle005
-    400052: Circle006
-    400054: Circle007
-    400056: Circle008
-    400058: Circle009
-    400060: Circle010
-    400062: Circle011
-    400064: Circle012
-    400066: Circle013
-    400068: Circle014
-    400070: Circle015
-    400072: //RootNode
-    400074: Sphere001
-    400076: Torus001
+    100000: //RootNode
+    400000: //RootNode
     2100000: No Name
-    2100002: 'Material #2'
-    2300000: Box001
-    2300002: Torus001
-    3300000: Box001
-    3300002: Torus001
-    4300000: Torus001
-    4300002: Box001
-    4300004: Sphere001
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: Sphere001
     9500000: //RootNode
-    13700000: Sphere001
   externalObjects: {}
   materials:
     importMaterials: 1
