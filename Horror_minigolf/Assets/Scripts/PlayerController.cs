@@ -3,8 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class PlayerController : MonoBehaviour {
-    public float speed = 4f;
-    public float rotationSpeed = 100f;
+    //public float speed = 4f;
+    //public float rotationSpeed = 100f;
 
     Rigidbody rb;
     public float sensitivity;
@@ -13,6 +13,9 @@ public class PlayerController : MonoBehaviour {
     public Transform player;
     public Transform beam;
 
+    private void Awake() {
+        rb = GetComponent<Rigidbody>();
+    }
 
     void Update() {
         //float translation = Input.GetAxis("Vertical") * speed;
@@ -21,14 +24,13 @@ public class PlayerController : MonoBehaviour {
         //rotation *= Time.deltaTime;
         //transform.Rotate(0, rotation, 0);
         //transform.Translate(0, 0, translation);
+        
 
         transform.Rotate(axis, Input.GetAxis(HorizontalAim) * sensitivity, 0);
-
-        if (Input.GetKeyUp(KeyCode.Mouse0)) {
-            rb = GetComponent<Rigidbody>();
-            //rb.constraints = RigidbodyConstraints.FreezeRotationX;
-            //rb.constraints = RigidbodyConstraints.FreezeRotationZ;
-            rb.velocity = (beam.position - rb.position).normalized * 10f;
+        if (rb.velocity.magnitude < 0.1f) {
+            if (Input.GetKeyUp(KeyCode.Mouse0)) {
+                rb.velocity = (beam.position - rb.position).normalized * 10f;
+            }
         }
         //rb:n avulla liikutta, ei transformilla
     }
