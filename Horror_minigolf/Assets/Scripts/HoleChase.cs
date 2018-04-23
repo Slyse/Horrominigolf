@@ -7,6 +7,10 @@ public class HoleChase : MonoBehaviour {
     public float speed;
     bool chasing;
 
+    public void EndChase() {
+        chasing = false;
+    }
+
     public void StartChase() {
         chasing = true;
     }
