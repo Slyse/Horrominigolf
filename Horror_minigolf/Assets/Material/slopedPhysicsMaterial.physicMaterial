@@ -8,6 +8,6 @@ PhysicMaterial:
   m_Name: slopedPhysicsMaterial
   dynamicFriction: 0.0001
   staticFriction: 0
-  bounciness: 0
+  bounciness: 0.5
   frictionCombine: 0
   bounceCombine: 0
