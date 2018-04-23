@@ -10,7 +10,7 @@ public class HoleBehavior : MonoBehaviour {
     public Text statusText;
 
     void Start() {
-        statusText.text = "";
+        // statusText.text = "";
     }
 
     private void OnTriggerEnter(Collider other) {
