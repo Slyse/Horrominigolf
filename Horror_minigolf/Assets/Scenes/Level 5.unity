@@ -209,7 +209,7 @@ Transform:
   - {fileID: 1637614167}
   - {fileID: 1194901666}
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &47576896
 Prefab:
@@ -900,7 +900,7 @@ Prefab:
         type: 2}
       propertyPath: player
       value: 
-      objectReference: {fileID: 1548259321}
+      objectReference: {fileID: 1454739263}
     - target: {fileID: 1744228471885008, guid: a0dfac8b74d1ff24cbc9b0ad3ce016f2, type: 2}
       propertyPath: m_Name
       value: Lavapool (12)
@@ -1379,7 +1379,7 @@ Transform:
   - {fileID: 135810569}
   - {fileID: 2114268888}
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &435597927
 Prefab:
@@ -1477,13 +1477,13 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4875401576211618, guid: ad3b8e0d827053a44bd48633118515fa, type: 2}
       propertyPath: m_RootOrder
-      value: 9
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 114177919638642622, guid: ad3b8e0d827053a44bd48633118515fa,
         type: 2}
       propertyPath: statusText
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 911772094}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: ad3b8e0d827053a44bd48633118515fa, type: 2}
   m_IsPrefabParent: 0
@@ -1666,7 +1666,7 @@ Prefab:
         type: 2}
       propertyPath: player
       value: 
-      objectReference: {fileID: 1548259321}
+      objectReference: {fileID: 1454739263}
     - target: {fileID: 1744228471885008, guid: a0dfac8b74d1ff24cbc9b0ad3ce016f2, type: 2}
       propertyPath: m_Name
       value: Lavapool (8)
@@ -1735,7 +1735,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4833239083220190, guid: c5097a1c9008c594b84bbefe27a2ea0c, type: 2}
       propertyPath: m_RootOrder
-      value: 7
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 4707170331309172, guid: c5097a1c9008c594b84bbefe27a2ea0c, type: 2}
       propertyPath: m_LocalPosition.z
@@ -1975,7 +1975,7 @@ Transform:
   m_LocalScale: {x: 45.278267, y: 45.27829, z: 45.27829}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
 --- !u!4 &804025439 stripped
 Transform:
@@ -2121,7 +2121,7 @@ Transform:
   m_LocalScale: {x: 45.278267, y: 45.27829, z: 45.27829}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 10
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &837193723
 Prefab:
@@ -2182,53 +2182,6 @@ Transform:
   m_PrefabParentObject: {fileID: 4858603574235380, guid: e0abdc309d8ffee4f82f63eb1fa61c96,
     type: 2}
   m_PrefabInternal: {fileID: 837193723}
---- !u!1001 &858690559
-Prefab:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 4931196903723708, guid: 2e5ef4f6bca3dbf4f9ea8523e817146a, type: 2}
-      propertyPath: m_LocalPosition.x
-      value: -1874
-      objectReference: {fileID: 0}
-    - target: {fileID: 4931196903723708, guid: 2e5ef4f6bca3dbf4f9ea8523e817146a, type: 2}
-      propertyPath: m_LocalPosition.y
-      value: 1551.625
-      objectReference: {fileID: 0}
-    - target: {fileID: 4931196903723708, guid: 2e5ef4f6bca3dbf4f9ea8523e817146a, type: 2}
-      propertyPath: m_LocalPosition.z
-      value: -1146
-      objectReference: {fileID: 0}
-    - target: {fileID: 4931196903723708, guid: 2e5ef4f6bca3dbf4f9ea8523e817146a, type: 2}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4931196903723708, guid: 2e5ef4f6bca3dbf4f9ea8523e817146a, type: 2}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4931196903723708, guid: 2e5ef4f6bca3dbf4f9ea8523e817146a, type: 2}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4931196903723708, guid: 2e5ef4f6bca3dbf4f9ea8523e817146a, type: 2}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4931196903723708, guid: 2e5ef4f6bca3dbf4f9ea8523e817146a, type: 2}
-      propertyPath: m_RootOrder
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 114059363851549222, guid: 2e5ef4f6bca3dbf4f9ea8523e817146a,
-        type: 2}
-      propertyPath: statusText
-      value: 
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_ParentPrefab: {fileID: 100100000, guid: 2e5ef4f6bca3dbf4f9ea8523e817146a, type: 2}
-  m_IsPrefabParent: 0
 --- !u!1001 &893086998
 Prefab:
   m_ObjectHideFlags: 0
@@ -2342,7 +2295,7 @@ Prefab:
     - target: {fileID: 224959966711974532, guid: 2aa47ff99fc6a644cbd120c6e71377b4,
         type: 2}
       propertyPath: m_RootOrder
-      value: 11
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 224959966711974532, guid: 2aa47ff99fc6a644cbd120c6e71377b4,
         type: 2}
@@ -2397,6 +2350,12 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 2aa47ff99fc6a644cbd120c6e71377b4, type: 2}
   m_IsPrefabParent: 0
+--- !u!114 &911772094 stripped
+MonoBehaviour:
+  m_PrefabParentObject: {fileID: 114394839341960894, guid: 2aa47ff99fc6a644cbd120c6e71377b4,
+    type: 2}
+  m_PrefabInternal: {fileID: 911772093}
+  m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
 --- !u!1001 &924623195
 Prefab:
   m_ObjectHideFlags: 0
@@ -2629,7 +2588,7 @@ Prefab:
         type: 2}
       propertyPath: player
       value: 
-      objectReference: {fileID: 1548259321}
+      objectReference: {fileID: 1454739263}
     - target: {fileID: 1744228471885008, guid: a0dfac8b74d1ff24cbc9b0ad3ce016f2, type: 2}
       propertyPath: m_Name
       value: Lavapool (11)
@@ -2740,6 +2699,7 @@ GameObject:
   - component: {fileID: 1079211853}
   - component: {fileID: 1079211852}
   - component: {fileID: 1079211856}
+  - component: {fileID: 1079211857}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -2804,7 +2764,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1079211851}
   m_LocalRotation: {x: 0.46540904, y: -0, z: -0, w: 0.8850957}
-  m_LocalPosition: {x: -16.08, y: 17.67, z: -50.92}
+  m_LocalPosition: {x: -16.08, y: 13.5, z: -48}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -2821,7 +2781,87 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 77fa89348e5eebd4aaeca378b6325682, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  target: {fileID: 1548259328}
+  target: {fileID: 1454739264}
+--- !u!82 &1079211857
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1079211851}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: f0e06be69f427044b993baa1d337921d, type: 3}
+  m_PlayOnAwake: 1
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - serializedVersion: 2
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
 --- !u!1001 &1170736504
 Prefab:
   m_ObjectHideFlags: 0
@@ -2936,7 +2976,7 @@ Prefab:
         type: 2}
       propertyPath: player
       value: 
-      objectReference: {fileID: 1548259321}
+      objectReference: {fileID: 1454739263}
     - target: {fileID: 1744228471885008, guid: a0dfac8b74d1ff24cbc9b0ad3ce016f2, type: 2}
       propertyPath: m_Name
       value: Lavapool (13)
@@ -3023,7 +3063,7 @@ Prefab:
         type: 2}
       propertyPath: player
       value: 
-      objectReference: {fileID: 1548259321}
+      objectReference: {fileID: 1454739263}
     - target: {fileID: 1744228471885008, guid: a0dfac8b74d1ff24cbc9b0ad3ce016f2, type: 2}
       propertyPath: m_Name
       value: Lavapool (16)
@@ -3124,7 +3164,7 @@ Prefab:
         type: 2}
       propertyPath: player
       value: 
-      objectReference: {fileID: 1548259321}
+      objectReference: {fileID: 1454739263}
     - target: {fileID: 1744228471885008, guid: a0dfac8b74d1ff24cbc9b0ad3ce016f2, type: 2}
       propertyPath: m_Name
       value: Lavapool (14)
@@ -3224,7 +3264,7 @@ Transform:
   - {fileID: 1270104030}
   - {fileID: 2031586853}
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1380764531
 Prefab:
@@ -3348,7 +3388,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
 --- !u!1001 &1450577631
 Prefab:
@@ -3408,6 +3448,16 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: e0abdc309d8ffee4f82f63eb1fa61c96, type: 2}
   m_IsPrefabParent: 0
+--- !u!1 &1454739263 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 1849324652501230, guid: aebea5618bca90046a11a7c6a8c278b4,
+    type: 2}
+  m_PrefabInternal: {fileID: 1924861319}
+--- !u!4 &1454739264 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 4400676976567122, guid: aebea5618bca90046a11a7c6a8c278b4,
+    type: 2}
+  m_PrefabInternal: {fileID: 1924861319}
 --- !u!1001 &1466297034
 Prefab:
   m_ObjectHideFlags: 0
@@ -3459,7 +3509,7 @@ Prefab:
         type: 2}
       propertyPath: player
       value: 
-      objectReference: {fileID: 1548259321}
+      objectReference: {fileID: 1454739263}
     - target: {fileID: 1744228471885008, guid: a0dfac8b74d1ff24cbc9b0ad3ce016f2, type: 2}
       propertyPath: m_Name
       value: Lavapool (9)
@@ -3546,7 +3596,7 @@ Prefab:
         type: 2}
       propertyPath: player
       value: 
-      objectReference: {fileID: 1548259321}
+      objectReference: {fileID: 1454739263}
     - target: {fileID: 1744228471885008, guid: a0dfac8b74d1ff24cbc9b0ad3ce016f2, type: 2}
       propertyPath: m_Name
       value: Lavapool (10)
@@ -3755,7 +3805,7 @@ Prefab:
         type: 2}
       propertyPath: player
       value: 
-      objectReference: {fileID: 1548259321}
+      objectReference: {fileID: 1454739263}
     - target: {fileID: 1744228471885008, guid: a0dfac8b74d1ff24cbc9b0ad3ce016f2, type: 2}
       propertyPath: m_Name
       value: Lavapool (7)
@@ -3787,58 +3837,6 @@ Transform:
   m_PrefabParentObject: {fileID: 4408936685960130, guid: a0dfac8b74d1ff24cbc9b0ad3ce016f2,
     type: 2}
   m_PrefabInternal: {fileID: 1520147137}
---- !u!1001 &1548259320
-Prefab:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 4437670743863766, guid: a87e680882448384d98749b39a861fc9, type: 2}
-      propertyPath: m_LocalPosition.x
-      value: -16.112247
-      objectReference: {fileID: 0}
-    - target: {fileID: 4437670743863766, guid: a87e680882448384d98749b39a861fc9, type: 2}
-      propertyPath: m_LocalPosition.y
-      value: 1.4
-      objectReference: {fileID: 0}
-    - target: {fileID: 4437670743863766, guid: a87e680882448384d98749b39a861fc9, type: 2}
-      propertyPath: m_LocalPosition.z
-      value: -44.818233
-      objectReference: {fileID: 0}
-    - target: {fileID: 4437670743863766, guid: a87e680882448384d98749b39a861fc9, type: 2}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4437670743863766, guid: a87e680882448384d98749b39a861fc9, type: 2}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4437670743863766, guid: a87e680882448384d98749b39a861fc9, type: 2}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4437670743863766, guid: a87e680882448384d98749b39a861fc9, type: 2}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4437670743863766, guid: a87e680882448384d98749b39a861fc9, type: 2}
-      propertyPath: m_RootOrder
-      value: 2
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_ParentPrefab: {fileID: 100100000, guid: a87e680882448384d98749b39a861fc9, type: 2}
-  m_IsPrefabParent: 0
---- !u!1 &1548259321 stripped
-GameObject:
-  m_PrefabParentObject: {fileID: 1106570867674580, guid: a87e680882448384d98749b39a861fc9,
-    type: 2}
-  m_PrefabInternal: {fileID: 1548259320}
---- !u!4 &1548259328 stripped
-Transform:
-  m_PrefabParentObject: {fileID: 4437670743863766, guid: a87e680882448384d98749b39a861fc9,
-    type: 2}
-  m_PrefabInternal: {fileID: 1548259320}
 --- !u!1001 &1637614164
 Prefab:
   m_ObjectHideFlags: 0
@@ -3890,7 +3888,7 @@ Prefab:
         type: 2}
       propertyPath: player
       value: 
-      objectReference: {fileID: 1548259321}
+      objectReference: {fileID: 1454739263}
     - target: {fileID: 1744228471885008, guid: a0dfac8b74d1ff24cbc9b0ad3ce016f2, type: 2}
       propertyPath: m_Name
       value: Lavapool (15)
@@ -4335,6 +4333,48 @@ Transform:
   m_PrefabParentObject: {fileID: 4858603574235380, guid: e0abdc309d8ffee4f82f63eb1fa61c96,
     type: 2}
   m_PrefabInternal: {fileID: 1920145564}
+--- !u!1001 &1924861319
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4400676976567122, guid: aebea5618bca90046a11a7c6a8c278b4, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -15.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4400676976567122, guid: aebea5618bca90046a11a7c6a8c278b4, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4400676976567122, guid: aebea5618bca90046a11a7c6a8c278b4, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -40.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4400676976567122, guid: aebea5618bca90046a11a7c6a8c278b4, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4400676976567122, guid: aebea5618bca90046a11a7c6a8c278b4, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4400676976567122, guid: aebea5618bca90046a11a7c6a8c278b4, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4400676976567122, guid: aebea5618bca90046a11a7c6a8c278b4, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4400676976567122, guid: aebea5618bca90046a11a7c6a8c278b4, type: 2}
+      propertyPath: m_RootOrder
+      value: 11
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: aebea5618bca90046a11a7c6a8c278b4, type: 2}
+  m_IsPrefabParent: 0
 --- !u!1001 &1949360028
 Prefab:
   m_ObjectHideFlags: 0
@@ -4573,7 +4613,7 @@ Prefab:
         type: 2}
       propertyPath: player
       value: 
-      objectReference: {fileID: 1548259321}
+      objectReference: {fileID: 1454739263}
     m_RemovedComponents:
     - {fileID: 135447004868419626, guid: a0dfac8b74d1ff24cbc9b0ad3ce016f2, type: 2}
   m_ParentPrefab: {fileID: 100100000, guid: a0dfac8b74d1ff24cbc9b0ad3ce016f2, type: 2}
@@ -4847,5 +4887,5 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 12
+  m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}

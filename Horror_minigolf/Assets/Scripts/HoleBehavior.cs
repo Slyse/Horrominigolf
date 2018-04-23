@@ -7,6 +7,7 @@ public class HoleBehavior : MonoBehaviour {
 
     public GameObject player;
     public Text statusText;
+    public AudioClip clip;
 
     void Start() {
         // statusText.text = "";
@@ -17,6 +18,7 @@ public class HoleBehavior : MonoBehaviour {
             print("ping");
             player.SetActive(false);
             statusText.text = "YARRR!! YOU GOT EATEN!";
+            AudioSource.PlayClipAtPoint(clip, Camera.main.transform.position);
             Time.timeScale = 0f;
             // vois freezaa pelin ja heittää gameover tms ruutuun display text on screen
 
