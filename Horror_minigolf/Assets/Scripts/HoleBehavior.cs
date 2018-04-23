@@ -15,7 +15,7 @@ public class HoleBehavior : MonoBehaviour {
     private void OnTriggerEnter(Collider other) {
         if (other.name == "NikoEyeball") {
             print("ping");
-            Destroy(player);
+            player.SetActive(false);
             statusText.text = "YARRR!! YOU GOT EATEN!";
             Time.timeScale = 0f;
             // vois freezaa pelin ja heittää gameover tms ruutuun display text on screen
