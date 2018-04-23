@@ -316,8 +316,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3438b1c41f5bb084f92112f25edf7452, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 4
-  rotationSpeed: 100
   sensitivity: 2
   HorizontalAim: Mouse X
   axis: {x: 0, y: 2, z: 0}
