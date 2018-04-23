@@ -21,7 +21,8 @@ GameObject:
   - component: {fileID: 4408936685960130}
   - component: {fileID: 33040534675538460}
   - component: {fileID: 23134305626889114}
-  - component: {fileID: 65443267489374056}
+  - component: {fileID: 114755623914719324}
+  - component: {fileID: 135447004868419626}
   m_Layer: 9
   m_Name: Lavapool
   m_TagString: Untagged
@@ -36,7 +37,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1744228471885008}
   m_LocalRotation: {x: -3.4960287e-19, y: 0.3551734, z: 0.000000042339966, w: 0.93480045}
-  m_LocalPosition: {x: 61.7, y: -0, z: 140.2}
+  m_LocalPosition: {x: 28.52, y: -0, z: -2.92}
   m_LocalScale: {x: 9.86, y: 1.34, z: 8.26}
   m_Children: []
   m_Father: {fileID: 0}
@@ -83,15 +84,29 @@ MeshFilter:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1744228471885008}
   m_Mesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
---- !u!65 &65443267489374056
-BoxCollider:
+--- !u!114 &114755623914719324
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1744228471885008}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf3b319ff4008e44e81638c0c2e41b22, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  player: {fileID: 0}
+  playercamera: {fileID: 0}
+  statusText: {fileID: 0}
+--- !u!135 &135447004868419626
+SphereCollider:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1744228471885008}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 1, y: 1, z: 1}
-  m_Center: {x: 0, y: 0, z: 0}
+  m_Radius: 0.510337
+  m_Center: {x: -0.005342805, y: 5.7877735e-16, z: -0.07035472}
