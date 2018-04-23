@@ -17,6 +17,7 @@ ModelImporter:
     4300000: Sphere001
     7400000: IdleEye
     9500000: //RootNode
+    11100000: //RootNode
   externalObjects:
   - first:
       type: UnityEngine:Material
@@ -45,7 +46,7 @@ ModelImporter:
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5
-    animationWrapMode: 0
+    animationWrapMode: 2
     extraExposedTransformPaths: []
     extraUserProperties: []
     clipAnimations:
@@ -54,7 +55,7 @@ ModelImporter:
       takeName: Take 001
       firstFrame: 0
       lastFrame: 30
-      wrapMode: 0
+      wrapMode: 2
       orientationOffsetY: 0
       level: 0
       cycleOffset: 0
@@ -124,7 +125,7 @@ ModelImporter:
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 2
+  animationType: 1
   humanoidOversampling: 1
   additionalBone: 0
   userData: 
