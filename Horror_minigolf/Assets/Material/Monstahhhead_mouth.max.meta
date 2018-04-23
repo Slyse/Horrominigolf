@@ -12,6 +12,7 @@ ModelImporter:
     100008: "Silm\xE4"
     100010: "silm\xE4juttu"
     100012: Suu
+    100014: "Silm\xE4001"
     400000: //RootNode
     400002: "p\xE4\xE4"
     400004: sarvi1
@@ -19,26 +20,31 @@ ModelImporter:
     400008: "Silm\xE4"
     400010: "silm\xE4juttu"
     400012: Suu
+    400014: "Silm\xE4001"
     2100000: No Name
     2100002: 'Material #2'
+    2100004: 'Material #3'
     2300000: "p\xE4\xE4"
     2300002: sarvi1
     2300004: sarvi2
     2300006: "Silm\xE4"
     2300008: "silm\xE4juttu"
     2300010: Suu
+    2300012: "Silm\xE4001"
     3300000: "p\xE4\xE4"
     3300002: sarvi1
     3300004: sarvi2
     3300006: "Silm\xE4"
     3300008: "silm\xE4juttu"
     3300010: Suu
+    3300012: "Silm\xE4001"
     4300000: "p\xE4\xE4"
     4300002: sarvi1
     4300004: sarvi2
     4300006: "silm\xE4juttu"
     4300008: "Silm\xE4"
     4300010: Suu
+    4300012: "Silm\xE4001"
     7400000: Take 001
     9500000: //RootNode
   externalObjects: {}
