@@ -909,6 +909,11 @@ Prefab:
       propertyPath: m_LocalEulerAnglesHint.y
       value: -45.318
       objectReference: {fileID: 0}
+    - target: {fileID: 114755623914719324, guid: a0dfac8b74d1ff24cbc9b0ad3ce016f2,
+        type: 2}
+      propertyPath: clip
+      value: 
+      objectReference: {fileID: 8300000, guid: e61ae95e181b3ae4bb735f811255d781, type: 3}
     m_RemovedComponents:
     - {fileID: 135447004868419626, guid: a0dfac8b74d1ff24cbc9b0ad3ce016f2, type: 2}
   m_ParentPrefab: {fileID: 100100000, guid: a0dfac8b74d1ff24cbc9b0ad3ce016f2, type: 2}
@@ -1671,6 +1676,11 @@ Prefab:
       propertyPath: m_Name
       value: Lavapool (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 114755623914719324, guid: a0dfac8b74d1ff24cbc9b0ad3ce016f2,
+        type: 2}
+      propertyPath: clip
+      value: 
+      objectReference: {fileID: 8300000, guid: e61ae95e181b3ae4bb735f811255d781, type: 3}
     m_RemovedComponents:
     - {fileID: 135447004868419626, guid: a0dfac8b74d1ff24cbc9b0ad3ce016f2, type: 2}
   m_ParentPrefab: {fileID: 100100000, guid: a0dfac8b74d1ff24cbc9b0ad3ce016f2, type: 2}
@@ -2597,6 +2607,11 @@ Prefab:
       propertyPath: m_LocalEulerAnglesHint.y
       value: -45.318
       objectReference: {fileID: 0}
+    - target: {fileID: 114755623914719324, guid: a0dfac8b74d1ff24cbc9b0ad3ce016f2,
+        type: 2}
+      propertyPath: clip
+      value: 
+      objectReference: {fileID: 8300000, guid: e61ae95e181b3ae4bb735f811255d781, type: 3}
     m_RemovedComponents:
     - {fileID: 135447004868419626, guid: a0dfac8b74d1ff24cbc9b0ad3ce016f2, type: 2}
   m_ParentPrefab: {fileID: 100100000, guid: a0dfac8b74d1ff24cbc9b0ad3ce016f2, type: 2}
@@ -2985,6 +3000,11 @@ Prefab:
       propertyPath: m_LocalEulerAnglesHint.y
       value: 41.912003
       objectReference: {fileID: 0}
+    - target: {fileID: 114755623914719324, guid: a0dfac8b74d1ff24cbc9b0ad3ce016f2,
+        type: 2}
+      propertyPath: clip
+      value: 
+      objectReference: {fileID: 8300000, guid: e61ae95e181b3ae4bb735f811255d781, type: 3}
     m_RemovedComponents:
     - {fileID: 135447004868419626, guid: a0dfac8b74d1ff24cbc9b0ad3ce016f2, type: 2}
   m_ParentPrefab: {fileID: 100100000, guid: a0dfac8b74d1ff24cbc9b0ad3ce016f2, type: 2}
@@ -3076,6 +3096,11 @@ Prefab:
       propertyPath: m_LocalScale.y
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 114755623914719324, guid: a0dfac8b74d1ff24cbc9b0ad3ce016f2,
+        type: 2}
+      propertyPath: clip
+      value: 
+      objectReference: {fileID: 8300000, guid: e61ae95e181b3ae4bb735f811255d781, type: 3}
     m_RemovedComponents:
     - {fileID: 135447004868419626, guid: a0dfac8b74d1ff24cbc9b0ad3ce016f2, type: 2}
   m_ParentPrefab: {fileID: 100100000, guid: a0dfac8b74d1ff24cbc9b0ad3ce016f2, type: 2}
@@ -3173,6 +3198,11 @@ Prefab:
       propertyPath: m_LocalEulerAnglesHint.y
       value: 41.912003
       objectReference: {fileID: 0}
+    - target: {fileID: 114755623914719324, guid: a0dfac8b74d1ff24cbc9b0ad3ce016f2,
+        type: 2}
+      propertyPath: clip
+      value: 
+      objectReference: {fileID: 8300000, guid: e61ae95e181b3ae4bb735f811255d781, type: 3}
     m_RemovedComponents:
     - {fileID: 135447004868419626, guid: a0dfac8b74d1ff24cbc9b0ad3ce016f2, type: 2}
   m_ParentPrefab: {fileID: 100100000, guid: a0dfac8b74d1ff24cbc9b0ad3ce016f2, type: 2}
@@ -3518,6 +3548,11 @@ Prefab:
       propertyPath: m_LocalEulerAnglesHint.y
       value: -45.318
       objectReference: {fileID: 0}
+    - target: {fileID: 114755623914719324, guid: a0dfac8b74d1ff24cbc9b0ad3ce016f2,
+        type: 2}
+      propertyPath: clip
+      value: 
+      objectReference: {fileID: 8300000, guid: e61ae95e181b3ae4bb735f811255d781, type: 3}
     m_RemovedComponents:
     - {fileID: 135447004868419626, guid: a0dfac8b74d1ff24cbc9b0ad3ce016f2, type: 2}
   m_ParentPrefab: {fileID: 100100000, guid: a0dfac8b74d1ff24cbc9b0ad3ce016f2, type: 2}
@@ -3605,6 +3640,11 @@ Prefab:
       propertyPath: m_LocalEulerAnglesHint.y
       value: -45.318
       objectReference: {fileID: 0}
+    - target: {fileID: 114755623914719324, guid: a0dfac8b74d1ff24cbc9b0ad3ce016f2,
+        type: 2}
+      propertyPath: clip
+      value: 
+      objectReference: {fileID: 8300000, guid: e61ae95e181b3ae4bb735f811255d781, type: 3}
     m_RemovedComponents:
     - {fileID: 135447004868419626, guid: a0dfac8b74d1ff24cbc9b0ad3ce016f2, type: 2}
   m_ParentPrefab: {fileID: 100100000, guid: a0dfac8b74d1ff24cbc9b0ad3ce016f2, type: 2}
@@ -3810,6 +3850,11 @@ Prefab:
       propertyPath: m_Name
       value: Lavapool (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 114755623914719324, guid: a0dfac8b74d1ff24cbc9b0ad3ce016f2,
+        type: 2}
+      propertyPath: clip
+      value: 
+      objectReference: {fileID: 8300000, guid: e61ae95e181b3ae4bb735f811255d781, type: 3}
     m_RemovedComponents:
     - {fileID: 135447004868419626, guid: a0dfac8b74d1ff24cbc9b0ad3ce016f2, type: 2}
   m_ParentPrefab: {fileID: 100100000, guid: a0dfac8b74d1ff24cbc9b0ad3ce016f2, type: 2}
@@ -3901,6 +3946,11 @@ Prefab:
       propertyPath: m_LocalScale.y
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 114755623914719324, guid: a0dfac8b74d1ff24cbc9b0ad3ce016f2,
+        type: 2}
+      propertyPath: clip
+      value: 
+      objectReference: {fileID: 8300000, guid: e61ae95e181b3ae4bb735f811255d781, type: 3}
     m_RemovedComponents:
     - {fileID: 135447004868419626, guid: a0dfac8b74d1ff24cbc9b0ad3ce016f2, type: 2}
   m_ParentPrefab: {fileID: 100100000, guid: a0dfac8b74d1ff24cbc9b0ad3ce016f2, type: 2}
@@ -4614,6 +4664,11 @@ Prefab:
       propertyPath: player
       value: 
       objectReference: {fileID: 1454739263}
+    - target: {fileID: 114755623914719324, guid: a0dfac8b74d1ff24cbc9b0ad3ce016f2,
+        type: 2}
+      propertyPath: clip
+      value: 
+      objectReference: {fileID: 8300000, guid: e61ae95e181b3ae4bb735f811255d781, type: 3}
     m_RemovedComponents:
     - {fileID: 135447004868419626, guid: a0dfac8b74d1ff24cbc9b0ad3ce016f2, type: 2}
   m_ParentPrefab: {fileID: 100100000, guid: a0dfac8b74d1ff24cbc9b0ad3ce016f2, type: 2}

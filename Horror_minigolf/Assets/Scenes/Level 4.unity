@@ -767,7 +767,7 @@ Prefab:
         type: 2}
       propertyPath: player
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 370948040}
     - target: {fileID: 135447004868419626, guid: a0dfac8b74d1ff24cbc9b0ad3ce016f2,
         type: 2}
       propertyPath: m_Radius
@@ -792,6 +792,11 @@ Prefab:
       propertyPath: m_LocalScale.y
       value: 1.3399999
       objectReference: {fileID: 0}
+    - target: {fileID: 114755623914719324, guid: a0dfac8b74d1ff24cbc9b0ad3ce016f2,
+        type: 2}
+      propertyPath: clip
+      value: 
+      objectReference: {fileID: 8300000, guid: e61ae95e181b3ae4bb735f811255d781, type: 3}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: a0dfac8b74d1ff24cbc9b0ad3ce016f2, type: 2}
   m_IsPrefabParent: 0
@@ -1185,7 +1190,7 @@ Prefab:
         type: 2}
       propertyPath: player
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 370948040}
     - target: {fileID: 135447004868419626, guid: a0dfac8b74d1ff24cbc9b0ad3ce016f2,
         type: 2}
       propertyPath: m_Radius
@@ -1210,6 +1215,11 @@ Prefab:
       propertyPath: m_LocalScale.y
       value: 1.3399999
       objectReference: {fileID: 0}
+    - target: {fileID: 114755623914719324, guid: a0dfac8b74d1ff24cbc9b0ad3ce016f2,
+        type: 2}
+      propertyPath: clip
+      value: 
+      objectReference: {fileID: 8300000, guid: e61ae95e181b3ae4bb735f811255d781, type: 3}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: a0dfac8b74d1ff24cbc9b0ad3ce016f2, type: 2}
   m_IsPrefabParent: 0
@@ -1537,7 +1547,7 @@ Prefab:
         type: 2}
       propertyPath: player
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 370948040}
     - target: {fileID: 135447004868419626, guid: a0dfac8b74d1ff24cbc9b0ad3ce016f2,
         type: 2}
       propertyPath: m_Radius
@@ -1562,6 +1572,11 @@ Prefab:
       propertyPath: m_LocalScale.z
       value: 5.07
       objectReference: {fileID: 0}
+    - target: {fileID: 114755623914719324, guid: a0dfac8b74d1ff24cbc9b0ad3ce016f2,
+        type: 2}
+      propertyPath: clip
+      value: 
+      objectReference: {fileID: 8300000, guid: e61ae95e181b3ae4bb735f811255d781, type: 3}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: a0dfac8b74d1ff24cbc9b0ad3ce016f2, type: 2}
   m_IsPrefabParent: 0
@@ -1779,7 +1794,7 @@ Prefab:
         type: 2}
       propertyPath: player
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 370948040}
     - target: {fileID: 135447004868419626, guid: a0dfac8b74d1ff24cbc9b0ad3ce016f2,
         type: 2}
       propertyPath: m_Radius
@@ -1804,6 +1819,11 @@ Prefab:
       propertyPath: m_LocalScale.y
       value: 1.3399999
       objectReference: {fileID: 0}
+    - target: {fileID: 114755623914719324, guid: a0dfac8b74d1ff24cbc9b0ad3ce016f2,
+        type: 2}
+      propertyPath: clip
+      value: 
+      objectReference: {fileID: 8300000, guid: e61ae95e181b3ae4bb735f811255d781, type: 3}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: a0dfac8b74d1ff24cbc9b0ad3ce016f2, type: 2}
   m_IsPrefabParent: 0
@@ -1963,7 +1983,7 @@ Prefab:
         type: 2}
       propertyPath: player
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 370948040}
     - target: {fileID: 135447004868419626, guid: a0dfac8b74d1ff24cbc9b0ad3ce016f2,
         type: 2}
       propertyPath: m_Radius
@@ -1996,6 +2016,11 @@ Prefab:
       propertyPath: m_Name
       value: Lavapool (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 114755623914719324, guid: a0dfac8b74d1ff24cbc9b0ad3ce016f2,
+        type: 2}
+      propertyPath: clip
+      value: 
+      objectReference: {fileID: 8300000, guid: e61ae95e181b3ae4bb735f811255d781, type: 3}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: a0dfac8b74d1ff24cbc9b0ad3ce016f2, type: 2}
   m_IsPrefabParent: 0
@@ -2313,7 +2338,7 @@ Prefab:
         type: 2}
       propertyPath: player
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 370948040}
     - target: {fileID: 135447004868419626, guid: a0dfac8b74d1ff24cbc9b0ad3ce016f2,
         type: 2}
       propertyPath: m_Radius
@@ -2334,6 +2359,11 @@ Prefab:
       propertyPath: m_Center.z
       value: 0.00018889025
       objectReference: {fileID: 0}
+    - target: {fileID: 114755623914719324, guid: a0dfac8b74d1ff24cbc9b0ad3ce016f2,
+        type: 2}
+      propertyPath: clip
+      value: 
+      objectReference: {fileID: 8300000, guid: e61ae95e181b3ae4bb735f811255d781, type: 3}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: a0dfac8b74d1ff24cbc9b0ad3ce016f2, type: 2}
   m_IsPrefabParent: 0
@@ -2454,7 +2484,7 @@ Prefab:
         type: 2}
       propertyPath: player
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 370948040}
     - target: {fileID: 135447004868419626, guid: a0dfac8b74d1ff24cbc9b0ad3ce016f2,
         type: 2}
       propertyPath: m_Radius
@@ -2487,6 +2517,11 @@ Prefab:
       propertyPath: m_LocalScale.y
       value: 1.3399999
       objectReference: {fileID: 0}
+    - target: {fileID: 114755623914719324, guid: a0dfac8b74d1ff24cbc9b0ad3ce016f2,
+        type: 2}
+      propertyPath: clip
+      value: 
+      objectReference: {fileID: 8300000, guid: e61ae95e181b3ae4bb735f811255d781, type: 3}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: a0dfac8b74d1ff24cbc9b0ad3ce016f2, type: 2}
   m_IsPrefabParent: 0
@@ -2832,7 +2867,7 @@ Prefab:
         type: 2}
       propertyPath: player
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 370948040}
     - target: {fileID: 135447004868419626, guid: a0dfac8b74d1ff24cbc9b0ad3ce016f2,
         type: 2}
       propertyPath: m_Radius
@@ -2865,6 +2900,11 @@ Prefab:
       propertyPath: m_LocalScale.y
       value: 1.3399999
       objectReference: {fileID: 0}
+    - target: {fileID: 114755623914719324, guid: a0dfac8b74d1ff24cbc9b0ad3ce016f2,
+        type: 2}
+      propertyPath: clip
+      value: 
+      objectReference: {fileID: 8300000, guid: e61ae95e181b3ae4bb735f811255d781, type: 3}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: a0dfac8b74d1ff24cbc9b0ad3ce016f2, type: 2}
   m_IsPrefabParent: 0
