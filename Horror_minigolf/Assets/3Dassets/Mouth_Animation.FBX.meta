@@ -1,20 +1,16 @@
 fileFormatVersion: 2
-guid: 007f72e1e73f11d4d93e77f55bd4a297
-timeCreated: 1524478082
+guid: 208ebc568cce4f244a130388bf4c3adc
+timeCreated: 1524478601
 licenseType: Pro
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
     100000: //RootNode
-    100002: Sphere001
-    100004: Torus001
     400000: //RootNode
-    400002: Sphere001
-    400004: Torus001
     2100000: 'Material #2'
-    2300000: Sphere001
-    3300000: Sphere001
-    4300000: Sphere001
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: Suu
     7400000: Take 001
     9500000: //RootNode
   externalObjects: {}
